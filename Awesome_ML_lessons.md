@@ -3,18 +3,18 @@
 
 # Basics of statistics and probability for ML
 
+
 MLVU Lesson 8:
 
-- Awesome [lecture on the Normal distribution, with historical context and a lot of examples] (https://www.youtube.com/watch?v=VZfAJzXu1hM)
-Love the part where we play being Gauss.
+- Awesome [lecture on the Normal distribution, with historical context and a lot of examples](https://www.youtube.com/watch?v=VZfAJzXu1hM). Love the part where we play being Gauss.
 
-# Entropy and information theory
+## Entropy and information theory
 
 MLVU Lesson xxx:
 
 - [Entropy and information theory] (xxx)
 
-# Expectation Maximization
+## Expectation Maximization
 
 
 
